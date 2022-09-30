@@ -74,12 +74,5 @@ git clone https://github.com/IBM-EPBL/IBM-Project-27159-1660048023.git
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 
-## Author
 
-- [@Vigneshwaran M](https://www.github.com/vicky-510)
-
-
-## Support
-
-For support, email vignesh510510@gmail.com or join our Slack channel.
 
