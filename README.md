@@ -17,7 +17,8 @@ This webpage contains Short Introduction `about Me`, `Professional Skills`, `Per
 The Below screenshot shows My Resume Webpage which contain information about me.
 It also have `Download CV` and `Hire Me` button.
 
-![Screenshot (4)](https://user-images.githubusercontent.com/113893768/193237971-e7d26b51-d174-4d51-95b3-a7de62bd3856.png)
+![Screenshot (16)](https://user-images.githubusercontent.com/98728414/195049934-23ce4346-cbc2-41a4-9f2b-d6a4156031e3.png)
+
 
 
 
@@ -33,13 +34,13 @@ This will redirect him when recruiter  click `Download CV` button.
 The Below screenshot shows form page where Recruiter/User can enter their detail, While they have vacancy in her company
 This will redirect him when recruiter  click `Hire Me` button.
 
-![Screenshot (128)](https://user-images.githubusercontent.com/103897625/190868503-5697c9e3-e53e-42c3-8fea-cbc406caff0a.png)
+![Screenshot (5)](https://user-images.githubusercontent.com/98728414/195050126-6e480faa-def8-4e8e-a9e8-171ae2ee6892.png)
 
 
-### Form Page with fields alert
-The Below screenshot shows form page with fields alert. This will occur when Recruiter/User missed any fields.
 
-![Screenshot (129)](https://user-images.githubusercontent.com/103897625/190868521-b55b5291-a8a6-458b-81a3-3b673e24b826.png)
+
+
+
 
 
 ## Acknowledgements
